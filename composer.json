@@ -29,11 +29,11 @@
     "nesbot/carbon": "^2.51"
   },
   "require-dev": {
-    "phpunit/phpunit": "^9.5",
-    "symfony/var-dumper": "^5.3",
+    "phpunit/phpunit": "^5.7",
+    "symfony/var-dumper": "~2.6",
     "vimeo/psalm": "^4.9",
-    "friendsofphp/php-cs-fixer": "^3.0",
-    "fakerphp/faker": "^1.15"
+    "friendsofphp/php-cs-fixer": "^2.0",
+    "fakerphp/faker": "^1.9"
   },
   "autoload": {
     "psr-4": {
